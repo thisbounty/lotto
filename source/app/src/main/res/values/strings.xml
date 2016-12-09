@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lucky Lotto</string>
+
+    <string name="shake_me">Shake me!</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
